@@ -9,4 +9,6 @@
     <string name="click">Click</string>
     <string name="display_tost">Display Tost</string>
     <string name="butter_knife">BUTTER KNIFE</string>
+    <string name="this_is_the_example_of_view_binding">this_is_the_example_of_view_binding</string>
+    <string name="view_binding">View_Binding</string>
 </resources>

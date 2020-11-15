@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
            @Override
            public void onClick(View v) {
                Toast.makeText(MainActivity.this, "hello", Toast.LENGTH_SHORT).show();
-               binding.mainHeading.setText("welcome");
+               binding.mainHeading.setText("Text Changed");
            }
        });
 
